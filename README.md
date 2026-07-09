@@ -7,7 +7,7 @@ Customer churn is a major challenge for subscription-based businesses. This repo
 ## Contents
 
 - Notebook: `Notebook/03_modeling_and_Evalution.ipynb` — modeling and evaluation workflow
-- Visuals: `Images/` — charts and executive graphics used in the report
+- Visuals: `images/` — charts and executive graphics used in the report
 
 ## Visual Summary
 
@@ -15,19 +15,19 @@ Below are the key visuals created for the project. Open the images in the `Image
 
 - Executive Overview
 
-  ![Executive Overview](Images/executive-overview.png)
+  ![Executive Overview](images/executive-overview.png)
 
   High-level summary of churn rates, cohort trends and recommended actions for leadership.
 
 - Churn Drivers
 
-  ![Churn Drivers](Images/churn-drivers.png)
+  ![Churn Drivers](images/churn-drivers.png)
 
   Feature importance and segmented analysis showing the primary drivers of churn.
 
 - Revenue Impact
 
-  ![Revenue Impact](Images/revenue-impact.png)
+  ![Revenue Impact](images/revenue-impact.png)
 
   Estimated monthly revenue at risk from projected churn and opportunity estimates from retention actions.
 
