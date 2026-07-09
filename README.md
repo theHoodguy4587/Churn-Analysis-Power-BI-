@@ -15,19 +15,19 @@ Below are the key visuals created for the project. Open the images in the `Image
 
 - Executive Overview
 
-  ![Executive Overview](Images/Executive%20Overview.png)
+  ![Executive Overview](Images/executive-overview.png)
 
   High-level summary of churn rates, cohort trends and recommended actions for leadership.
 
 - Churn Drivers
 
-  ![Churn Drivers](Images/Churn%20Drivers.png)
+  ![Churn Drivers](Images/churn-drivers.png)
 
   Feature importance and segmented analysis showing the primary drivers of churn.
 
 - Revenue Impact
 
-  ![Revenue Impact](Images/Revenue%20Impact.png)
+  ![Revenue Impact](Images/revenue-impact.png)
 
   Estimated monthly revenue at risk from projected churn and opportunity estimates from retention actions.
 
