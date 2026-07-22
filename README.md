@@ -13,23 +13,17 @@ Customer churn is a major challenge for subscription-based businesses. This repo
 
 Below are the key visuals created for the project. Open the images in the `Images` folder for full-resolution versions.
 
-- Executive Overview
+- Executive Overview & Financial Risk
 
-  ![Executive Overview](images/executiveoverview.png)
+  ![Executive Overview](images/executive_overview.png)
 
-  High-level summary of churn rates, cohort trends and recommended actions for leadership.
+  High-level executive summary displaying overall customer KPIs, retention trends across tenure groups, revenue loss by contract type, and a high-risk customer segment breakdown with conditional formatting for rapid risk identification.
 
-- Churn Drivers
+- Drivers & Root Cause Analysis
 
-  ![Churn Drivers](images/churndrivers.png)
+  ![Churn Drivers](images/drivers_rootcause.png)
 
-  Feature importance and segmented analysis showing the primary drivers of churn.
-
-- Revenue Impact
-
-  ![Revenue Impact](images/revenueimpact.png)
-
-  Estimated monthly revenue at risk from projected churn and opportunity estimates from retention actions.
+ Operational deep-dive isolating key churn risk factors across contract types, internet service tiers, and payment channels, paired with actionable strategic recommendations for retention teams.
 
 ## How to Use
 
