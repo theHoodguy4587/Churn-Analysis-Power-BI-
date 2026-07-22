@@ -38,4 +38,3 @@ Below are the key visuals created for the project. Open the images in the `Image
 
 ---
 
-If you'd like, I can (a) rename the image files to remove spaces and update the README links, (b) optimize PNGs for smaller size, or (c) add a one-page HTML preview that embeds these visuals.
